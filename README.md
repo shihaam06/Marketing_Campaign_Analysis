@@ -1,12 +1,12 @@
-# 📊 Marketing Campaign Performance & ROI Analysis
+# Marketing Campaign Performance & ROI Analysis
 
-## 🎯 Objective
+## Objective
 
 To analyze marketing campaign data and evaluate performance across channels, campaign types, and locations in order to generate actionable business insights and improve marketing efficiency.
 
 ---
 
-## 🧰 Tools & Technologies
+## Tools & Technologies
 
 * SQL (Data Cleaning & Analysis)
 * Power BI (Data Visualization & Dashboarding)
@@ -14,13 +14,13 @@ To analyze marketing campaign data and evaluate performance across channels, cam
 
 ---
 
-## 📁 Dataset
+## Dataset
 
 The dataset contains marketing campaign data including campaign type, target audience, marketing channels, conversion rates, acquisition cost, ROI, and location.
 
 ---
 
-## 🔍 Key Analysis Performed
+##  Key Analysis Performed
 
 * Analyzed ROI across different marketing channels
 * Evaluated campaign performance based on conversion rates
@@ -30,7 +30,7 @@ The dataset contains marketing campaign data including campaign type, target aud
 
 ---
 
-## 📊 Dashboard Overview
+## Dashboard Overview
 
 The Power BI dashboard includes:
 
@@ -43,7 +43,7 @@ The Power BI dashboard includes:
 
 ---
 
-## 🧠 Key Insights
+## Key Insights
 
 * Facebook and Website channels deliver the highest ROI
 * Email campaigns have higher spending but slightly lower efficiency
