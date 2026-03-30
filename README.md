@@ -68,6 +68,7 @@ This project demonstrates how data analysis can be used to evaluate marketing pe
 ---
 
 ##  Dashboard Preview
+![Dashboard](dashboard2.png)
 
 
 
