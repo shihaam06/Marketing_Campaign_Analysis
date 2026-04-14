@@ -46,8 +46,9 @@ The Power BI dashboard includes:
 
 ## Key Insights
 
-* Found that Facebook and Website channels consistently delivered the highest ROI across locations
-* Email campaigns have higher spending but slightly lower efficiency
+* Facebook channel has the highest average ROI (~5.0), making it the most effective channel for returns
+* Email campaigns have the highest total acquisition cost (~418M), indicating heavy spending
+* Despite high spending, Email does not deliver the highest ROI, suggesting potential inefficiency in budget allocation
 * ROI across locations is relatively consistent
 * Some high-cost channels do not proportionally increase ROI
 * Identified that Email campaigns had higher spending but ~10–15% lower ROI compared to Facebook
