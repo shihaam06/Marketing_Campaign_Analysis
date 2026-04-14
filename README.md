@@ -2,7 +2,8 @@
 
 ## Objective
 
-To analyze marketing campaign data and evaluate performance across channels, campaign types, and locations in order to generate actionable business insights and improve marketing efficiency.
+- Analyzed 3,000+ rows of marketing data across 5+ channels
+- Evaluated ROI and conversion rates to identify top-performing campaigns
 
 ---
 
@@ -45,10 +46,12 @@ The Power BI dashboard includes:
 
 ## Key Insights
 
-* Facebook and Website channels deliver the highest ROI
+* Found that Facebook and Website channels consistently delivered the highest ROI across locations
 * Email campaigns have higher spending but slightly lower efficiency
 * ROI across locations is relatively consistent
 * Some high-cost channels do not proportionally increase ROI
+* Identified that Email campaigns had higher spending but ~10–15% lower ROI compared to Facebook
+
 
 ---
 
@@ -60,6 +63,14 @@ The Power BI dashboard includes:
 * Monitor and adjust marketing strategies based on ROI trends
 
 ---
+## Approach
+
+- Cleaned and prepared dataset using SQL and Excel
+- Performed aggregations (SUM, AVG) to evaluate performance metrics
+- Used JOINs and GROUP BY to compare channels and locations
+- Built interactive dashboard in Power BI with filters and KPIs
+
+---  
 
 ##  Conclusion
 
